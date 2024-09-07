@@ -1,5 +1,9 @@
 # IA-Lego
 
+![IMG_20211013_115814](https://github.com/user-attachments/assets/d0f7f94a-b4a1-4076-9154-084469bf19d4)
+![IMG_20211013_120216](https://github.com/user-attachments/assets/d3a12d33-77d8-4bf6-b04c-6f1153a66f54)
+
+
 At the start of Michaelmas, I worked with two other engineers to build and program a Photocopier made from Lego.  
 
 ### Hardware
